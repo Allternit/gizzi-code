@@ -56,6 +56,6 @@ bun run build
 
 ## Related Repos
 
-- [`allternit-platform`](https://github.com/Gizziio/allternit-platform) — Core platform
-- [`allternit-sdk`](https://github.com/Gizziio/allternit-sdk) — SDK and plugins
-- [`gizzi-code-docs`](https://github.com/Gizziio/gizzi-code-docs) — This project's docs
+- [`allternit-platform`](https://github.com/Allternit/allternit-platform) — Core platform
+- [`allternit-sdk`](https://github.com/Allternit/allternit-platform/tree/main/sdk) — SDK and plugins
+- [`gizzi-code-docs`](https://github.com/Allternit/allternit-platform/tree/main/surfaces/docs) — This project's docs

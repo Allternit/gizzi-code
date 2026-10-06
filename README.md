@@ -10,7 +10,7 @@
 curl -fsSL https://install.gizziio.com/install | bash
 
 # Homebrew
-brew tap Gizziio/tap && brew install gizzi-code
+brew tap Allternit/tap && brew install gizzi-code
 
 # npm (all platforms)
 npm install -g @allternit/gizzi-code
@@ -21,14 +21,14 @@ npm install -g @allternit/gizzi-code
 irm https://install.gizziio.com/install.ps1 | iex
 
 # Scoop
-scoop bucket add gizziio https://github.com/Gizziio/scoop-bucket
+scoop bucket add allternit https://github.com/Allternit/scoop-bucket
 scoop install gizzi-code
 
 # winget
 winget install Allternit.GizziCode
 ```
 
-Releases: [`gizzi-code/v*`](https://github.com/Gizziio/allternit-platform/releases) on `Gizziio/allternit-platform`. Docs: [docs.gizziio.com](https://docs.gizziio.com).
+Releases: [`gizzi-code/v*`](https://github.com/Allternit/allternit-platform/releases) on `Allternit/allternit-platform`. Docs: [docs.gizziio.com](https://docs.gizziio.com).
 
 ## Quick Start
 
@@ -59,9 +59,9 @@ gizzi-code --help
 
 ## Related Repositories
 
-- [`allternit-platform`](https://github.com/Gizziio/allternit-platform) — Core platform monorepo
-- [`allternit-sdk`](https://github.com/Gizziio/allternit-sdk) — SDK and plugins
-- [`gizzi-code-docs`](https://github.com/Gizziio/gizzi-code-docs) — This project's documentation site
+- [`allternit-platform`](https://github.com/Allternit/allternit-platform) — Core platform monorepo
+- [`allternit-sdk`](https://github.com/Allternit/allternit-platform/tree/main/sdk) — SDK and plugins
+- [`gizzi-code-docs`](https://github.com/Allternit/allternit-platform/tree/main/surfaces/docs) — This project's documentation site
 
 ## License
 

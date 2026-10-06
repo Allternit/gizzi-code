@@ -1,5 +1,5 @@
 /**
- * SessionHeader - Allternit matrix badge, Gizziio Code branding, and session telemetry
+ * SessionHeader - Allternit matrix badge, Gizzi Code branding, and session telemetry
  */
 
 import { createMemo, createSignal, onCleanup, Show } from "solid-js"
@@ -108,7 +108,7 @@ export function SessionHeader() {
 
         {/* Brand + version stacked */}
         <box flexDirection="column" flexShrink={0}>
-          <text fg={SAND} attributes={TextAttributes.BOLD}>Gizziio Code</text>
+          <text fg={SAND} attributes={TextAttributes.BOLD}>Gizzi Code</text>
           <text fg={theme.textMuted}>{version()}</text>
         </box>
 
