@@ -3,6 +3,11 @@
 > **Workspace-aware AI assistant CLI**
 > AI-powered terminal interface for the Allternit ecosystem. Natural language commands, multi-provider support, and local-first execution.
 
+> **Current release: [Gizzi Code v2.15.0](https://github.com/Allternit/allternit-platform/releases/tag/gizzi-code/v2.15.0).**
+> Gizzi Code is built and released from [allternit-platform](https://github.com/Allternit/allternit-platform). Install with
+> `npm install -g @allternit/gizzi-code` or `brew install allternit/tap/gizzi-code`.
+> This repo keeps earlier source and the hosted runtime binary for cloud computers.
+
 ## Installation
 
 ```bash
